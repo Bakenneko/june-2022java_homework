@@ -25,10 +25,11 @@ public class Main {
                 new Pages(352),
                 "Hardback",
                 "J. K. Rowling",
-                "Harry Potter and the Cursed Child",
                 2016,
+                "Harry Potter",
                 "London, United Kingdom",
                 17.14
+
         );
 
         Magazine magazine = new Magazine(
